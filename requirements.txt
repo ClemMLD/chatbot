@@ -8,6 +8,7 @@ click==8.1.8
 cloudpathlib==0.21.1
 confection==0.1.5
 cymem==2.0.11
+dotenv==0.9.9
 en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl#sha256=1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85
 Flask==3.1.1
 idna==3.10
@@ -29,10 +30,13 @@ preshed==3.0.10
 pydantic==2.11.7
 pydantic_core==2.33.2
 Pygments==2.19.1
+python-dotenv==1.1.0
 regex==2024.11.6
 requests==2.32.4
 rich==14.0.0
 shellingham==1.5.4
+slack_bolt==1.23.0
+slack_sdk==3.35.0
 smart-open==7.1.0
 spacy==3.8.7
 spacy-legacy==3.0.12
